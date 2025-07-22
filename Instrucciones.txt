@@ -1,0 +1,19 @@
+1. Crear una carptea llamada src
+2. Dentro de la carpeta, crar un archivo llamado hola-mundo.py
+3. Editar el archivo 
+# mi_primer_script.py
+print("¡Hola, GitHub!")
+4. Hacer el commit local
+5. Sincronizar al repositorio remoto
+
+1. Crear una carptea llamada doc
+2. Dentro de la carpeta, crar un archivo llamado sesion2.md
+3. Editar el archivo 
+4. Escribir un resumen de: cómo se crea un repositorio nuevo en GitHub, 
+cómo se enlaza con el repo local, como se sincronizan
+5. Tomar un pantallazo de GitBash, lo guardan como imagen y lo ponen en 
+la carpeta doc
+6. Insertar esa imagen en el documento sesion2.md
+![texto](nombre_imagen.png)
+4. Hacer el commit local
+5. Sincronizar al repositorio remoto
